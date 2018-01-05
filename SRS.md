@@ -23,11 +23,11 @@ University of Liberal Arts
 ### Table of Content
 ### Revision History
 ### 1.	[Introduction](#introduction)
-	1.1	[Purpose](#purpose)
-	1.2	Document Conventions
-	1.3	Intended Audience and Reading Suggestions
-	1.4	Product Scope
-	1.5	References
+ - 1.1	[Purpose](#purpose)
+ - 1.2	Document Conventions
+ - 1.3	Intended Audience and Reading Suggestions
+ - 1.4	Product Scope
+ - 1.5	References
 ### 2.	Overall Description
 	2.1	Product Perspective
 	2.2	Product Features
