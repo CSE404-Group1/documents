@@ -1,6 +1,5 @@
 
 
-***
 
 # Software Requirements Specification
 
@@ -24,7 +23,7 @@ University of Liberal Arts
 ### Table of Content
 ### Revision History
 ### 1.	[Introduction](#introduction)
-	1.1	Purpose
+	1.1	[Purpose](#purpose)
 	1.2	Document Conventions
 	1.3	Intended Audience and Reading Suggestions
 	1.4	Product Scope
@@ -62,6 +61,9 @@ University of Liberal Arts
 
 _____
 # Introduction
+_____
+### 1.1
+## Purpose
 
 
 
