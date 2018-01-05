@@ -4,15 +4,15 @@
 
 # Software Requirements Specification
 
-## for
+for
 
 # KomEkinun.com
 
-### Version 1.0 approved
+Version beta approved
 
-### Prepared by *Eptabit*
+Prepared by *Eptabit*
 
-### University of Liberal Arts
+University of Liberal Arts
 
 ### 30/11/2017
 
@@ -23,7 +23,7 @@
 ## Table of Contents
 ### Table of Content
 ### Revision History
-### 1.	Introduction
+### 1.	[Introduction](#introduction)
 	1.1	Purpose
 	1.2	Document Conventions
 	1.3	Intended Audience and Reading Suggestions
@@ -44,10 +44,10 @@
 
 
 ### 4.External Interface Requirements
-	4.1 User Interfaces
-	4.2 Hardware Interfaces
- 	4.3 Software Interfaces
- 	4.4 Communications Interfaces 
+	4.1     User Interfaces
+	4.2     Hardware Interfaces
+ 	4.3     Software Interfaces
+ 	4.4     Communications Interfaces 
  
 
 ### 5. Other Nonfunctional Requirements
@@ -56,6 +56,12 @@
 	5.2	Safety Requirements
 	5.3	Security Requirements
 	5.4	Software Quality Attributes
+	
+	
+
+
+_____
+# Introduction
 
 
 
