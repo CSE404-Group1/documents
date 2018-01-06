@@ -43,7 +43,7 @@ University of Liberal Arts
 
  - 3.1	[Description and priority](#description-and-priority)
  - 3.2	[Response Sequences](#response-sequences)
- - 3.3	[Functional Requirment](#functional-requirment)
+ - 3.3	[Functional Requirement](#functional-requirement)
 
 ### 4. [External Interface Requirements](#external-interface-requirements)
 
@@ -188,7 +188,7 @@ The offers and sale web application maintains the information on all the offer d
 < Write something >
 
 ### 3.3
-## Functional Requirment
+## Functional Requirement
 
 < Write Something>
 
