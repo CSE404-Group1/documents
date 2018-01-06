@@ -231,7 +231,7 @@ This project supports all types of web browsers.
 
 
 ____
-Other Nonfunctional Requirements
+# Other Nonfunctional Requirements
 ____
 
 ### 5.1
