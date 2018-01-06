@@ -205,6 +205,18 @@ The **komEkinun.com** web application maintains the information on all the offer
  
  ### 4.3
  ## Software Interfaces
+
+| Software used         | 	Description       
+| ------------- |:-------------:
+| Database     | To save the information of product details, offers, sellers details we have chosen mySQL database.      
+| Laravel | We have used laravel 5.5 for the back-end  
+| Angular     | We have used Angular (5) for the front-end
+
+### 4.4
+## Communications Interfaces
+
+This project supports all types of web browsers on pc and mobile-phone.
+
  
 
  
