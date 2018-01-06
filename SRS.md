@@ -55,9 +55,8 @@ University of Liberal Arts
 ### 5. [Other Nonfunctional Requirements](#other-nonfunctional-requirements)
 
  - 5.1	[Performance Requirements](#performance-requirements)
- - 5.2	[Safety Requirements](#safety-requirements)
- - 5.3	[Security Requirements](#security-requirements)
- - 5.4	[Software Quality Attributes](#software-quality-attributes)
+ - 5.2	[Security Requirements](#security-requirements)
+ - 5.3	[Software Quality Attributes](#software-quality-attributes)
 	
 	
 
@@ -68,7 +67,7 @@ _____
 ### 1.1
 ## Purpose
 
-The purpose of this document is to build an online system or E-commerce platform to find all kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
+The purpose of this document is to build an online system or E-commerce platform to find the all  kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
 
 ### 1.2
 ## Document Conventions
@@ -82,7 +81,7 @@ DB | Database
 ### 1.3 
 ## Intended Audience and Reading Suggestions
 
-This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of our course instructor, Md Anowarul Abedin. Our audience will be people from all ages who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
+This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of course instructor, Md Anowarul Abedin. Our audience will be all ages people who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
 
 ### 1.4 
 ## Product Scope
@@ -109,6 +108,7 @@ _____
 
 ### 2.2
 ## Product Features
+
 
 *<Summarize the major functions the product must perform or must let the user perform. Details will be provided in Section 3, so only a high level summary (such as a bullet list) is needed here. Organize the functions to make them understandable to any reader of the SRS. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or object class diagram, is often effective.>*
 
@@ -154,11 +154,11 @@ In order to post the products the seller has to verify his id by logging in the 
 
 The operating environment for Komekinun is as follows :-
 
-*Operating system*- all os
+*Front end*-angular (5)
+
+*Bsck end*-laravel
 
 *Database*-mysql
-
-*Platform*-laravel/angular (5)
 
 ### 2.5 
 ## Design and Implementation Constraints
@@ -173,15 +173,25 @@ The operating environment for Komekinun is as follows :-
  - A seller may post on invalid product . In that case the super admin can claim for a review and delete it after proper justification.
  - The super admin can delete a valid product from the website if the product finishes from the stock even before its validity period comes to an end.
  - A seller posting repeated fake products will be banned from posting further after it has been checked by the super admin.
- 
- _____
+
+_____
 # System Features
 _____
 
 ### 3.1
 ## Description and priority
 
-The **komEkinun.com** web application maintains the information on all the offer details of products, product description, sellers information, shop description and shop location. Of course, this project has a high priority because it brings all the offers and sales of products in one platform.
+The offers and sale web application maintains the information on all the offer details of products, product description, sellers information, shop description and shop location. Of course, this project has a high priority because it brings all the offers and sales of products in one platform.
+
+### 3.2
+## Response Sequences
+< Write something >
+
+### 3.3
+## Functional Requirment
+
+< Write Something>
+
 
 
  _____
@@ -214,13 +224,37 @@ The **komEkinun.com** web application maintains the information on all the offer
 
 ### 4.4
 ## Communications Interfaces
+This project supports all types of web browsers.
 
-This project supports all types of web browsers on pc and mobile-phone.
 
- 
+____
+Other Nonfunctional Requirements
+____
 
- 
- 
+### 5.1
+## Performance Requirements
+
+<Write something>
+
+### 5.2
+## Security Requirements
+
+Security systems need database storage just like many other applications. However, the special requirements of the security market mean that vendors must choose their database partner carefully.
+
+### 5.3
+## Software Quality Attributes
+
+**AVAILABILITY:** <Write something>
+
+**CORRECTNESS:** <Write something>
+
+**MAINTAINABILITY:** <Write something>
+
+**USABILITY:** <Write something>
+
+
+
+
 
   
 
