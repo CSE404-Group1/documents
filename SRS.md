@@ -68,7 +68,7 @@ _____
 ### 1.1
 ## Purpose
 
-The purpose of this document is to build an online system or E-commerce platform to find the all  kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
+The purpose of this document is to build an online system or E-commerce platform to find all kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
 
 ### 1.2
 ## Document Conventions
@@ -82,7 +82,7 @@ DB | Database
 ### 1.3 
 ## Intended Audience and Reading Suggestions
 
-This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of course instructor, Md Anowarul Abedin. Our audience will be all ages people who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
+This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of our course instructor, Md Anowarul Abedin. Our audience will be people from all ages who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
 
 ### 1.4 
 ## Product Scope
@@ -119,7 +119,7 @@ The users of the program will be able to view a product of his/her choice by sel
 
 In order to post the products the seller has to verify his id by logging in the website . The seller needs to provide the information of the product as instructed. The seller has to accomplish the following activities :
 
-*Add a product*
+**Add a product**
 
 -Name
 
@@ -154,11 +154,11 @@ In order to post the products the seller has to verify his id by logging in the 
 
 The operating environment for Komekinun is as follows :-
 
-*Front end*-angular (5)
-
-*Bsck end*-laravel
+*Operating system*- all os
 
 *Database*-mysql
+
+*Platform*-laravel/angular (5)
 
 ### 2.5 
 ## Design and Implementation Constraints
@@ -173,6 +173,43 @@ The operating environment for Komekinun is as follows :-
  - A seller may post on invalid product . In that case the super admin can claim for a review and delete it after proper justification.
  - The super admin can delete a valid product from the website if the product finishes from the stock even before its validity period comes to an end.
  - A seller posting repeated fake products will be banned from posting further after it has been checked by the super admin.
+ 
+ _____
+# System Features
+_____
+
+### 3.1
+## Description and priority
+
+The **komEkinun.com** web application maintains the information on all the offer details of products, product description, sellers information, shop description and shop location. Of course, this project has a high priority because it brings all the offers and sales of products in one platform.
+
+
+ _____
+# External Interface Requirements
+ _____
+ 
+ ### 4.1 
+ ## User Interfaces
+ 
+ *Front end*-angular (5)
+
+ *Back end*-Laravel
+
+ 
+ 
+ ### 4.2
+ ## Hardware Interfaces
+ 
+ - All operating system
+ - Google Chrome, Firefox, IE>9, Safari
+ 
+ ### 4.3
+ ## Software Interfaces
+ 
+
+ 
+ 
+
   
 
 
