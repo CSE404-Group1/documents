@@ -20,7 +20,6 @@ University of Liberal Arts
 ***
 
 ## Table of Contents
-### Table of Content
 ### Revision History
 ### 1.	[Introduction](#introduction)
 
@@ -86,7 +85,7 @@ This project is a prototype for the e-commerce system and it's restricted within
 ### 1.4 
 ## Product Scope
 
-The purpose of the E-commerce web application is to make life easy for the customers who are searching for deals on offers and sales. With the help of our online application they don't have to search for hours after hours in shopping malls, google, facebook and social media's to find the offer of the product they want to buy. 
+The purpose of the E-commerce web application is to make life easy for the customers who are searching for deals on offers and sales. With the help of our online application they don't have to search for hours after hours in shopping malls, google, Facebook and social media to find the offer of the product they want to buy.
 
 ### 1.5 
 ## References
@@ -100,11 +99,11 @@ _____
 ### 2.1	
 ## Product Perspective
 
-**Seller details:** It includes the seller name , seller id , contact number , e-mail id etc as it will be more trust worthy and convenient to the buyers.
+**Seller details:** It includes the seller name, seller id, contact number, e-mail id etc. as it will be more trust worthy and convenient to the buyers.
 
-**Customer details:** The customer name , contact number and e-mail id have been included as the customer information.
+**Customer details:** The customer name, contact number and e-mail id have been included as the customer information.
 
-**Product details:** KomeKinun has the products classified into various segments including Men's and Women's fashion, computing and gaming, beauty and health ,foods etc. A particular product within a classified segment includes the product name, product id , actual price , sale price, validity date etc.
+**Product details:** komEkinun has the products classified into various segments including Men's and Women's fashion, computing and gaming, beauty and health, foods etc. A particular product within a classified segment includes the product name, product id, actual price, sale price, validity date etc.
 
 ### 2.2
 ## Product Features
@@ -115,9 +114,10 @@ _____
 ### 2.3
 ## User Classes and Characteristics
 
-The users of the program will be able to view a product of his/her choice by selecting a category or he/she can roam around the homepage for the availabality  of the products on sale . afterwards he/she has to travel to the specific store to retain the offer .
+The users of the program will be able to view a product of his/her choice by selecting a category or he/she can roam around the homepage for the availability of the products on sale. afterwards he/she must travel to the specific store to retain the offer.
 
-In order to post the products the seller has to verify his id by logging in the website . The seller needs to provide the information of the product as instructed. The seller has to accomplish the following activities :
+To post the products, the seller must verify his id by logging in the website. The seller needs to provide the information of the product as instructed. The seller must accomplish the following activities:
+
 
 **Add a product**
 
@@ -152,13 +152,14 @@ In order to post the products the seller has to verify his id by logging in the 
 ### 2.4
 ## Operating Environment
 
-The operating environment for Komekinun is as follows :-
+The operating environment for Komekinun is as follows: -
 
 *Front end*-angular (5)
 
-*Bsck end*-laravel
+*Back end*-Laravel 5.5
 
 *Database*-mysql
+
 
 ### 2.5 
 ## Design and Implementation Constraints
@@ -171,7 +172,9 @@ The operating environment for Komekinun is as follows :-
 **We have taken three probable dependencies into action that may arise during operations.**
 
  - A seller may post on invalid product . In that case the super admin can claim for a review and delete it after proper justification.
+ 
  - The super admin can delete a valid product from the website if the product finishes from the stock even before its validity period comes to an end.
+ 
  - A seller posting repeated fake products will be banned from posting further after it has been checked by the super admin.
 
 _____
