@@ -249,6 +249,18 @@ They connect entities and represent meaningful dependencies between them.
 
 
 
+
+
+### B) NORMALIZATION:
+The basic objective of normalization is to reduce redundancy meaning that information is to be stored only once. Storing information several times leads to wastage of storage space and increase in the total size of the data stored.
+
+If a database is not properly designed, it can give rise to modification anomalies arise when data is added to, changed or deleted from a database table. Similarly, in traditional databases as well as improperly designed relational databases, data redundancy can be a problem. These can be eliminated by normalizing a database.
+
+Normalization is the process of breaking down a table into smaller tables. So that each table deals with a single theme. There are three different kinds of modifications of anomalies and formulated the first, second and third normal forms (3NF) is considered sufficient for most practical purposes. It should be considered only after a thorough analysis and complete understanding of its implications.
+
+
+
+
 <Write something>
 
 ### 5.2
