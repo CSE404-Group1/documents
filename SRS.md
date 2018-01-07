@@ -236,6 +236,9 @@ ____
 
 ### 5.1
 ## Performance Requirements
+the steps required to implement komEkinun are as follows:
+### A) E-R Diagram
+The E-R diagram constitutes a technique for representing the logical structure of a database in a pictorial manner. This analysis is then used to organize data as a relation,normalizing relations and finally obtaining a relation database.
 
 <Write something>
 
