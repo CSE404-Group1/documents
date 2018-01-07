@@ -86,7 +86,7 @@ DB | Database
 
 ## Intended Audience and Reading Suggestions
 
-This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of course instructor, Md Anowarul Abedin. Our audience will be all ages people who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
+This project is a prototype for the e-commerce system. This has been implemented under the guidance of course instructor, Md Anowarul Abedin. Our audience will be the people of all ages who love shopping and love offers and bargain sale. This web-based software will help them finding out their desired products or services. 
 
 ### 1.4 
 
