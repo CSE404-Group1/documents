@@ -66,71 +66,7 @@ _____
 ### 1.1
 ## Purpose
 
-The purpose of this document is to build an online system or E-commerce platform to find the all 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The purpose of this document is to build an online system or E-commerce platform to find all 
 kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
 
 ### 1.2
@@ -228,8 +164,11 @@ The operating environment for Komekinun is as follows: -
 
 ### 2.5 
 ## Design and Implementation Constraints
-
-*<Describe any items or issues that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the customer’s organization will be responsible for maintaining the delivered software).>*
+ 
+ 1. The global schema, fragmentation schema and allocation schema.
+ 2. SQL commands for above queries/ applications.
+ 3. how the response for application 1 and 2 will be generated. Assuming these are global queries, explain how various fragments will be     combined to do so.
+ 4. Implement the database at least using a centralized database management system.
 
 ### 2.6
 ## Assumptions and Dependencies
