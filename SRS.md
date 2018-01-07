@@ -229,8 +229,8 @@ The offers and sale web application maintains the information on all the offer d
 ## Functional Requirement
 
 ### Centralized DATABASE:
-Centralized database system has been used as the major functional requirement. A centralized database is located, stored and maintained in a single location. Therefore, data integrity is maximized and data redundancy is minimized as it has the single storing place of all the data. It also implies that a given set of data has one primary record. This helps in maintaining of data as accurate and as consistent as possible and enhances data reliabilty.
-Less complexity has arisen because of using centralized database as it is not based on hierarchial structure.
+Centralized database system has been used as the major functional requirement. A centralized database is located, stored and maintained in a single location. Therefore, data integrity is maximized and data redundancy is minimized as it has the single storing place of all the data. It also implies that a given set of data has one primary record. This helps in maintaining of data as accurate and as consistent as possible and enhances data reliability.
+Less complexity has arisen because of using centralized database as it is not based on hierarchical structure.
 
 
 
