@@ -247,13 +247,17 @@ Security systems need database storage just like many other applications. Howeve
 ### 5.3
 ## Software Quality Attributes
 
-**AVAILABILITY:** <Write something>
+**AVAILABILITY:** 
+the offers and sales will be available till the validity date ends and last product of the stocks lasts.
 
-**CORRECTNESS:** <Write something>
+**CORRECTNESS:** 
+The duration of the offers and sales should be correct and in case of stocks (no. of available products) the amount should be specific.
 
-**MAINTAINABILITY:** <Write something>
+**MAINTAINABILITY:** 
+The super admins should have to inspect and review the deals frequently so that no opaque incident occurs.
 
-**USABILITY:** <Write something>
+**USABILITY:** 
+the deals with offers and sales should satisfy a maximum number of customer needs.
 
 
 
