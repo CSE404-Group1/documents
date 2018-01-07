@@ -66,7 +66,72 @@ _____
 ### 1.1
 ## Purpose
 
-The purpose of this document is to build an online system or E-commerce platform to find the all  kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
+The purpose of this document is to build an online system or E-commerce platform to find the all 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
 
 ### 1.2
 ## Document Conventions
