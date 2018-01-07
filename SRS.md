@@ -207,8 +207,9 @@ The offers and sale web application maintains the information on all the offer d
 ### 3.2
 
 ## Response Sequences
- - Search for the product you want to know the offer of
- - Click on the offer to see the full details of offer and information on where to buy
+ - Viewing of the products will take place by searching for an item or entering into the category menu. A number of products have also been displayed in the homepage.
+ - In case of searching, a detailed list of available products will be displayed.
+ - Product details will come up for further query.
 
 ### 3.3
 
