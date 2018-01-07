@@ -241,9 +241,9 @@ the steps required to implement komEkinun are as follows:
 The E-R diagram constitutes a technique for representing the logical structure of a database in a pictorial manner. This analysis is then used to organize data as a relation,normalizing relations and finally obtaining a relation database.
 - ### ENTITIES: 
 They specify distinctreal-world items in an application.
-* PROPERTIES:
+- ### PROPERTIES:
 They specify properties of an entity and relationship.
-* RELATIONS: 
+- ### RELATIONS: 
 They connect entities and represent meaningful dependencies between them.
 ## E-R Diagram:
 
