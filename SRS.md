@@ -20,7 +20,9 @@ University of Liberal Arts
 ***
 
 ## Table of Contents
+
 ### Revision History
+
 ### 1.	[Introduction](#introduction)
 
  - 1.1	[Purpose](#purpose)
@@ -64,12 +66,14 @@ _____
 # Introduction
 _____
 ### 1.1
+
 ## Purpose
 
 The purpose of this document is to build an online system or E-commerce platform to find all 
 kinds of offers and sales advertisement for the regular customers. We will provide and merge all the products offer of this country in one platform.
 
 ### 1.2
+
 ## Document Conventions
 
 This document uses the following conventions:-
@@ -79,16 +83,19 @@ DB | Database
 **ER** | **Entity Relationship Diagram**
 
 ### 1.3 
+
 ## Intended Audience and Reading Suggestions
 
 This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of course instructor, Md Anowarul Abedin. Our audience will be all ages people who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
 
 ### 1.4 
+
 ## Product Scope
 
 The purpose of the E-commerce web application is to make life easy for the customers who are searching for deals on offers and sales. With the help of our online application they don't have to search for hours after hours in shopping malls, google, Facebook and social media to find the offer of the product they want to buy.
 
 ### 1.5 
+
 ## References
 
 - Software Engineering by Md Anowarul Abedin.
@@ -98,6 +105,7 @@ _____
 _____
 
 ### 2.1	
+
 ## Product Perspective
 
 **Seller details:** It includes the seller name, seller id, contact number, e-mail id etc. as it will be more trust worthy and convenient to the buyers.
@@ -107,12 +115,14 @@ _____
 **Product details:** komEkinun has the products classified into various segments including Men's and Women's fashion, computing and gaming, beauty and health, foods etc. A particular product within a classified segment includes the product name, product id, actual price, sale price, validity date etc.
 
 ### 2.2
+
 ## Product Features
 
 
 *<Summarize the major functions the product must perform or must let the user perform. Details will be provided in Section 3, so only a high level summary (such as a bullet list) is needed here. Organize the functions to make them understandable to any reader of the SRS. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or object class diagram, is often effective.>*
 
 ### 2.3
+
 ## User Classes and Characteristics
 
 The users of the program will be able to view a product of his/her choice by selecting a category or he/she can roam around the homepage for the availability of the products on sale. afterwards he/she must travel to the specific store to retain the offer.
@@ -151,6 +161,7 @@ To post the products, the seller must verify his id by logging in the website. T
 *Delete
 
 ### 2.4
+
 ## Operating Environment
 
 The operating environment for Komekinun is as follows: -
@@ -163,6 +174,7 @@ The operating environment for Komekinun is as follows: -
 
 
 ### 2.5 
+
 ## Design and Implementation Constraints
  
  1. The global schema, fragmentation schema and allocation schema.
@@ -171,6 +183,7 @@ The operating environment for Komekinun is as follows: -
  4. Implement the database at least using a centralized database management system.
 
 ### 2.6
+
 ## Assumptions and Dependencies
 
 **We have taken three probable dependencies into action that may arise during operations.**
@@ -186,15 +199,19 @@ _____
 _____
 
 ### 3.1
+
 ## Description and priority
 
 The offers and sale web application maintains the information on all the offer details of products, product description, sellers information, shop description and shop location. Of course, this project has a high priority because it brings all the offers and sales of products in one platform.
 
 ### 3.2
+
 ## Response Sequences
-< Write something >
+ - Search for the product you want to know the offer of
+ - Click on the offer to see the full details of offer and information on where to buy
 
 ### 3.3
+
 ## Functional Requirement
 
 < Write Something>
@@ -206,6 +223,7 @@ The offers and sale web application maintains the information on all the offer d
  _____
  
  ### 4.1 
+ 
  ## User Interfaces
  
  *Front end*-angular (5)
@@ -215,12 +233,14 @@ The offers and sale web application maintains the information on all the offer d
  
  
  ### 4.2
+ 
  ## Hardware Interfaces
  
  - All operating system
  - Google Chrome, Firefox, IE>9, Safari
  
  ### 4.3
+ 
  ## Software Interfaces
 
 | Software used         | 	Description       
@@ -230,6 +250,7 @@ The offers and sale web application maintains the information on all the offer d
 | Angular     | We have used Angular (5) for the front-end
 
 ### 4.4
+
 ## Communications Interfaces
 This project supports all types of web browsers.
 
@@ -239,6 +260,7 @@ ____
 ____
 
 ### 5.1
+
 ## Performance Requirements
 the steps required to implement komEkinun are as follows:
 ### A) E-R Diagram
@@ -256,6 +278,7 @@ They connect entities and represent meaningful dependencies between them.
 
 
 ### B) NORMALIZATION:
+
 The basic objective of normalization is to reduce redundancy meaning that information is to be stored only once. Storing information several times leads to wastage of storage space and increase in the total size of the data stored.
 
 If a database is not properly designed, it can give rise to modification anomalies arise when data is added to, changed or deleted from a database table. Similarly, in traditional databases as well as improperly designed relational databases, data redundancy can be a problem. These can be eliminated by normalizing a database.
@@ -263,16 +286,14 @@ If a database is not properly designed, it can give rise to modification anomali
 Normalization is the process of breaking down a table into smaller tables. So that each table deals with a single theme. There are three different kinds of modifications of anomalies and formulated the first, second and third normal forms (3NF) is considered sufficient for most practical purposes. It should be considered only after a thorough analysis and complete understanding of its implications.
 
 
-
-
-<Write something>
-
 ### 5.2
+
 ## Security Requirements
 
 Security systems need database storage just like many other applications. However, the special requirements of the security market mean that vendors must choose their database partner carefully.
 
 ### 5.3
+
 ## Software Quality Attributes
 
 **AVAILABILITY:** 
@@ -286,6 +307,8 @@ The super admins should have to inspect and review the deals frequently so that 
 
 **USABILITY:** 
 the deals with offers and sales should satisfy a maximum number of customer needs.
+
+____
 
 
 
