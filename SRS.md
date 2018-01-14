@@ -51,7 +51,7 @@ University of Liberal Arts
  - 4.1   [User Interfaces](#user-interfaces)
  - 4.2   [Hardware Interfaces](#hardware-interfaces)
  - 4.3   [Software Interfaces](#software-interfaces)
- - 4.4   [Communications Interfaces](#communication-interfaces)
+ - 4.4   [Communication Interfaces](#communication-interfaces)
 
 ### 5. [Other Nonfunctional Requirements](#other-nonfunctional-requirements)
 
@@ -267,7 +267,7 @@ Less complexity has arisen because of using centralized database as it is not ba
 
 ### 4.4
 
-## Communications Interfaces
+## Communication Interfaces
 This project supports all types of web browsers.
 
 
