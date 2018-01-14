@@ -289,7 +289,7 @@ They specify properties of an entity and relationship.
 They connect entities and represent meaningful dependencies between them.
 ## E-R Diagram:
 
-
+![er diagram](https://user-images.githubusercontent.com/33510214/34913911-bf7061ae-f932-11e7-9c80-891fd18c2f74.png)
 
 
 
