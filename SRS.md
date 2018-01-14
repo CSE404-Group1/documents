@@ -51,7 +51,7 @@ University of Liberal Arts
  - 4.1   [User Interfaces](#user-interfaces)
  - 4.2   [Hardware Interfaces](#hardware-interfaces)
  - 4.3   [Software Interfaces](#software-interfaces)
- - 4.4   [Communications Interfaces](#communications-interfaces)
+ - 4.4   [Communications Interfaces](#communication-interfaces)
 
 ### 5. [Other Nonfunctional Requirements](#other-nonfunctional-requirements)
 
