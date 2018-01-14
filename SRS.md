@@ -192,7 +192,7 @@ The operating platforms for Komekinun are as follows: -
  
  1. The global schema, fragmentation schema and allocation schema.
  2. SQL commands for above queries/ applications.
- 3. how the response for application 1 and 2 will be generated. Assuming these are global queries, explain how various fragments will be     combined to do so.
+ 3. How the response for application 1 and 2 will be generated. Assuming these are global queries, explain how various fragments will be     combined to do so.
  4. Implement the database at least using a centralized database management system.
 
 ### 2.6
