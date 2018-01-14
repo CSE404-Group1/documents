@@ -108,7 +108,7 @@ _____
 
 ## Product Perspective
 
-**Seller details:** It includes the seller name, seller id, contact number, e-mail id etc. as it will be more trust worthy and convenient to the buyers.
+**Seller details:** It includes the seller name, seller id, contact number, e-mail id etc. as it will be more trustworthy and convenient to the buyers.
 
 **Customer details:** The customer name, contact number and e-mail id have been included as the customer information.
 
