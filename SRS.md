@@ -1,7 +1,7 @@
 
 
 
-# Software Requirements Specification
+# Software Requirement Specification
 
 for
 
