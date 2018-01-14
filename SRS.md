@@ -313,7 +313,7 @@ Security systems need database storage just like many other applications. Howeve
 ## Software Quality Attributes
 
 **AVAILABILITY:** 
-the offers and sales will be available till the validity date ends and last product of the stocks lasts.
+The offers and sales will be available till the validity date ends and last product of the stocks lasts.
 
 **CORRECTNESS:** 
 The duration of the offers and sales should be correct and in case of stocks (no. of available products) the amount should be specific.
