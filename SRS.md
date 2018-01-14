@@ -201,11 +201,11 @@ The operating platforms for Komekinun are as follows: -
 
 **We have taken three probable dependencies into action that may arise during operations.**
 
- - A seller may post on invalid product . In that case the super admin can claim for a review and delete it after proper justification.
+ - A seller may post an invalid product . In that case the super admins can claim for a review and delete it after proper justification.
  
- - The super admin can delete a valid product from the website if the product finishes from the stock even before its validity period comes to an end.
+ - The super admins can delete a valid product from the website if the product finishes from the stock even before its validity period comes to an end.
  
- - A seller posting repeated fake products will be banned from posting further after it has been checked by the super admin.
+ - A seller posting repeated fake products will be banned from posting further after it has been checked by the super admins.
 
 _____
 # System Features
@@ -215,7 +215,7 @@ _____
 
 ## Description and priority
 
-The offers and sale web application maintains the information on all the offer details of products, product description, sellers information, shop description and shop location. Of course, this project has a high priority because it brings all the offers and sales of products in one platform.
+The offers and sales web application maintains the information on all the offer details of products, product description, seller information, shop description and shop location. Of course, this project has a high priority because it brings all the offers and sales of products in one platform.
 
 ### 3.2
 
