@@ -138,7 +138,7 @@ The major features of komEkinun are shown below as entity-relationship model:
 
 ## User Classes and Characteristics
 
-The users of the program will be able to view a product of his/her choice by selecting a category or he/she can roam around the homepage for the availability of the products on sale. afterwards he/she must travel to the specific store to retain the offer.
+The users of the program will be able to view a product of his/her choice by selecting a category or he/she can roam around the homepage for the availability of the products on sale. Afterwards he/she must travel to the specific store to retain the offer.
 
 To post the products, the seller must verify his id by logging in the website. The seller needs to provide the information of the product as instructed. The seller must accomplish the following activities:
 
