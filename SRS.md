@@ -121,7 +121,7 @@ _____
 
 The major features of komEkinun are shown below as entity-relationship model:
 
-
+![users flow chart](https://user-images.githubusercontent.com/33510214/34913960-8c64c6b4-f933-11e7-9454-c8866346994b.png)
 
 
 
