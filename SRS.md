@@ -177,7 +177,7 @@ To post the products, the seller must verify his id by logging in the website. T
 
 ## Operating Environment
 
-The operating environment for Komekinun is as follows: -
+The operating platforms for Komekinun are as follows: -
 
 *Front end*-angular (5)
 
